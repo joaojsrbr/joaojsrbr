@@ -43,7 +43,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaojsrbr&show_icons=true&theme=dracula&line_height=27" alt="**joaojsrbr** github stats"/>
 </a>
 
-[![willianrod's wakatime stats](https://github-readme-stats-9aor6supu-joaojsrbr.vercel.app/api/wakatime?username=joaojsrbr)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats-cyan-eta.vercel.app/api/wakatime?username=joaojsrbr)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
