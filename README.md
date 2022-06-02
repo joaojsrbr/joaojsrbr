@@ -35,12 +35,11 @@
   ## **GitHub Estatísticas**
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaojsrbr&layout=compact&langs_count=7&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaojsrbr&hide=issues&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joaojsrbr)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
+<div align="center">
+  <a href="https://github.com/LevyRonald">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaojsrbr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaojsrbr&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 
 
